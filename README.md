@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ruwinolga99
+- 👋 Hi, I’m Roro
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on projects with my friends
+- 🌱 I’m currently learning OutSystems
 - 📫 You can reach me via email ruwinolga99@gmail.com
 
 <!---
